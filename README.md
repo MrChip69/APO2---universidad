@@ -6,4 +6,6 @@ Temp_con_matrizes.java = temperaturas de 0 a 100 en java
 
 Temp_con_matrizes.cpp = temperaturas de 0 a 100 en C 
 
+TablaTemp.java = tabla con 100 filas de temperaturas aleatorias para 6 ciudades
+
 Se usaron los conocimientos enseñados durannte las ultimas 2 clases y chatGPT por q me da flojera buscar errores linea por linea. :P
